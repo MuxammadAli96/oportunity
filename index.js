@@ -1,3 +1,4 @@
+"use strict";
 // let numberOfFilms = prompt("Сколько фильмов вы уже посмотрели", ' ');
 //  alert ("Вы посмотрели " +  numberOfFilms + " фильма");
 
@@ -86,5 +87,47 @@
 // if (hamburger && cola || fries === 3 && nuggets) {
 //    console.log('Done!')
 // }
-dasdas
 
+// var num = 1;
+// while (num < 10){
+//     console.log(num)
+//     num++;
+    
+// }
+
+// for (let i = 1 ; i < 8; i++){
+//     console.log(i)
+// }
+// var num=1;
+
+// do{
+//     console.log(num);
+//     num++;
+// }
+// while (num<10);
+// var i=0;
+// do{
+//     alert( `number ${i}!` );
+//     i++;
+// }
+// while(i<3);
+// var i= 0;
+// outer:do{
+//    i= prompt("Введите число большее число",'');
+//    if (!i) break outer;
+// }
+// while (i<=100)
+
+
+// var i= prompt("Введите наименьшее число" ,"");
+// var num=prompt("Введите наименьшее число" ,"");
+// for( ;i<num;i++){
+//     if(i % 1 ==0 && i % i == 0 && i % 2 >= 1 && i % 3 >=1 ) {
+//         console.log(i)
+//     }
+     
+// }
+
+
+
+    
