@@ -814,4 +814,4 @@ const personalMovieDB = {
           writeYourGenres();
           
 
-console.log(personalMovieDB)
+console.log(personalMovieDB)1*
